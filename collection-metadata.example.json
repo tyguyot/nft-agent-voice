@@ -1,0 +1,22 @@
+[
+  {
+    "token_id": 1,
+    "name": "Example #1",
+    "attributes": [
+      {"trait_type": "Type", "value": "Gold"},
+      {"trait_type": "Eyes", "value": "Shades"},
+      {"trait_type": "Background", "value": "Sunset"}
+    ],
+    "image": "ipfs://<cid>/1.png"
+  },
+  {
+    "token_id": 2,
+    "name": "Example #2",
+    "attributes": [
+      {"trait_type": "Type", "value": "Standard"},
+      {"trait_type": "Eyes", "value": "Default"},
+      {"trait_type": "Background", "value": "Mint"}
+    ],
+    "image": "ipfs://<cid>/2.png"
+  }
+]

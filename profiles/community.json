@@ -1,0 +1,23 @@
+[
+  {
+    "twitter_handle": "example_holder_one",
+    "discord_handle": "Nova",
+    "description": "Day one supporter, runs a coffee cart IRL and treats every launch like a grand opening, has opinions about fonts, never misses a community call",
+    "tokens": "#412",
+    "notes": ""
+  },
+  {
+    "twitter_handle": "example_holder_two",
+    "discord_handle": "Pike",
+    "description": "Quiet collector who only posts when something ships, solved the first riddle in under an hour and still brings it up, also goes by Pikey",
+    "tokens": "",
+    "notes": ""
+  },
+  {
+    "twitter_handle": "example_teammate",
+    "discord_handle": "Rae",
+    "description": "Runs community, knows everyone's name and their dog's name, will absolutely correct your lore, secretly the funniest person in the server",
+    "tokens": "",
+    "notes": "team"
+  }
+]

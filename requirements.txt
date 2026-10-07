@@ -1,0 +1,12 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+anthropic==0.39.0
+tweepy==4.14.0
+slack-sdk==3.33.0
+python-dotenv==1.0.1
+pydantic==2.9.2
+httpx==0.27.2
+Pillow==10.4.0
+APScheduler==3.10.4
+web3==7.6.0
+standard-imghdr==3.13.0; python_version >= "3.13"
