@@ -1,0 +1,7 @@
+.env
+*.db
+__pycache__/
+*.pyc
+voice-test-results.md
+.venv/
+venv/
